@@ -1,5 +1,5 @@
 # Web-Scraper
-*Scrapes the weatherchannel for 10 day forecast
+*Scrapes the weatherchannel for 10 day forecast:
 
 from bs4 import BeautifulSoup
 import requests
